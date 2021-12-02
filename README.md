@@ -15,10 +15,8 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=NikOneZ1 alt=NikOneZ1 /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=NikOneZ1&show_icons=true&include_all_commits=true&theme=github_dark)](https://github.com/NikOneZ1/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikOneZ1&layout=compact&theme=github_dark)](https://github.com/NikOneZ1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikOneZ1&theme=github_dark)](https://github.com/NikOneZ1/github-readme-stats)
 
 ## Best projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NikOneZ1&repo=createfolio&theme=github_dark)](https://github.com/NikOneZ1/createfolio)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NikOneZ1&repo=ExpenseTracker&theme=github_dark)](https://github.com/NikOneZ1/ExpenseTracker)
