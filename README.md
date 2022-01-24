@@ -20,3 +20,4 @@
 ## Best projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NikOneZ1&repo=createfolio&theme=github_dark)](https://github.com/NikOneZ1/createfolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NikOneZ1&repo=ExpenseTracker&theme=github_dark)](https://github.com/NikOneZ1/ExpenseTracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NikOneZ1&repo=MarkovChainText&theme=github_dark)](https://github.com/NikOneZ1/MarkovChainText)
