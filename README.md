@@ -10,6 +10,7 @@
 - Selenium
 - PyTest
 - Celery
+- Docker
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=NikOneZ1 alt=NikOneZ1 /> </p>
