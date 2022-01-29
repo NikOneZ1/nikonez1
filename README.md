@@ -7,6 +7,7 @@
 - REST Framework
 - HTML
 - CSS
+- JavaScript
 - Selenium
 - PyTest
 - Celery
