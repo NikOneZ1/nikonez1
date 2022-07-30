@@ -1,17 +1,22 @@
 ## Hey 👋, This is Nikita Verba
-[![Gmail Badge](https://img.shields.io/badge/-nikita.verba18052004@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nikita.verba18052004@gmail.com)](mailto:nikita.verba18052004@gmail.com) [![Github Badge](https://img.shields.io/badge/-NikOneZ1-grey?style=flat&logo=github&logoColor=white&link=https://github.com/NikOneZ1/)](https://www.github.com/NikOneZ1/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=createfolio.herokuapp.com/portfolio/nikone/)](createfolio.herokuapp.com/portfolio/nikone/) <p align='left'>I am a self-taught python developer based Odessa. I started learning python two years ago. I studied from a books, lessons on YouTube and various articles. After learning the basics of the language, I started exploring the django framework with which I made several projects.</p>
+[![Gmail Badge](https://img.shields.io/badge/-nikita.verba18052004@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nikita.verba18052004@gmail.com)](mailto:nikita.verba18052004@gmail.com) [![Github Badge](https://img.shields.io/badge/-NikOneZ1-grey?style=flat&logo=github&logoColor=white&link=https://github.com/NikOneZ1/)](https://www.github.com/NikOneZ1/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=createfolio.herokuapp.com/portfolio/nikone/)](createfolio.herokuapp.com/portfolio/nikone/) <p align='left'>Self-taught Python Back-End developer from Odessa with less that a year experience in commercial development and more than 2 years in non-commercial development. Also have skills in basic Front-End and blockchain development.</p>
 
-## Skills
-- Python
-- Django
-- REST Framework
-- HTML
-- CSS
-- JavaScript
-- Selenium
-- PyTest
+## Hard skills
+- Python 
+- Django, Django Rest Framework
+- FastAPI
+- Ormar
+- Docker, Docker-Compose
 - Celery
-- Docker
+- GIT
+- PyTest
+- Heroku
+- Redis (some knowledge)
+- HTML, CSS, JavaScript (some knowledge)
+
+## Soft Skills
+- Self-reliance
+- Team work
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=NikOneZ1 alt=NikOneZ1 /> </p>
