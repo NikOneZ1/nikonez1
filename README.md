@@ -1,31 +1,25 @@
 ## Hey 👋, This is Nikita Verba
-[![Gmail Badge](https://img.shields.io/badge/-nikita.verba18052004@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nikita.verba18052004@gmail.com)](mailto:nikita.verba18052004@gmail.com) [![Github Badge](https://img.shields.io/badge/-NikOneZ1-grey?style=flat&logo=github&logoColor=white&link=https://github.com/NikOneZ1/)](https://www.github.com/NikOneZ1/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=createfolio.herokuapp.com/portfolio/nikone/)](createfolio.herokuapp.com/portfolio/nikone/) <p align='left'>Self-taught Python Back-End developer from Odessa with less than a year of experience in commercial development and more than two years in non-commercial development. Also have skills in basic Front-End and blockchain development.</p>
+[![Gmail Badge](https://img.shields.io/badge/-nikita.verba18052004@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nikita.verba18052004@gmail.com)](mailto:nikita.verba18052004@gmail.com) [![Github Badge](https://img.shields.io/badge/-NikOneZ1-grey?style=flat&logo=github&logoColor=white&link=https://github.com/NikOneZ1/)](https://www.github.com/NikOneZ1/) <p align='left'>Hi!
+
+I'm a software engineer with a passion for building scalable and efficient systems. My journey in tech has allowed me to work on diverse projects, ranging from fitness platforms to secure Web3 applications. I thrive in environments where I can leverage both my backend and full-stack skills, always aiming to deliver robust solutions.
+
+What drives me is the constant evolution of technology and the endless opportunities to learn and grow. I'm not just a coder, I'm a problem-solver who thrives on turning complex challenges into seamless solutions. Whether it's optimizing a REST API or diving into the intricacies of blockchain, I'm all in.</p>
 
 ## Hard skills
 - Python 
 - Django, Django Rest Framework
 - FastAPI
-- Ormar
+- SQL
 - Docker, Docker-Compose
 - Celery
 - GIT
-- PyTest
-- Heroku
-- Redis (some knowledge)
-- HTML, CSS, JavaScript (some knowledge)
+- Redis
+- JavaScript
+- React
+- AWS
+- Solidity
+
 
 ## Soft Skills
 - Self-reliance
 - Team work
-
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=NikOneZ1 alt=NikOneZ1 /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=NikOneZ1&show_icons=true&include_all_commits=true&theme=github_dark)](https://github.com/NikOneZ1/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikOneZ1&theme=github_dark)](https://github.com/NikOneZ1/github-readme-stats)
-
-## Best projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NikOneZ1&repo=createfolio&theme=github_dark)](https://github.com/NikOneZ1/createfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NikOneZ1&repo=ExpenseTracker&theme=github_dark)](https://github.com/NikOneZ1/ExpenseTracker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NikOneZ1&repo=MarkovChainText&theme=github_dark)](https://github.com/NikOneZ1/MarkovChainText)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NikOneZ1&repo=Blockword&theme=github_dark)](https://github.com/NikOneZ1/Blockword)
